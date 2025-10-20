@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-20 23:40:52",
+  "timestamp": "2025-10-20 23:41:04",
   "candidates": {
     "Cường Bạch": 24.46,
     "Hồ Đông Quan": 42.09,
@@ -9,8 +9,8 @@
   },
   "deltas": {
     "Cường Bạch": 0.0,
-    "Hồ Đông Quan": -0.01,
-    "Phúc Nguyên": -0.01,
+    "Hồ Đông Quan": 0.0,
+    "Phúc Nguyên": 0.0,
     "Lâm Anh": 0.0,
     "Thái Lê Minh Hiếu": 0.0
   },
