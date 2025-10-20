@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-10-20 23:17:15",
+  "timestamp": "2025-10-20 23:17:27",
   "candidates": {
     "Cường Bạch": 24.48,
-    "Hồ Đông Quan": 42.14,
+    "Hồ Đông Quan": 42.13,
     "Phúc Nguyên": 15.02,
     "Lâm Anh": 4.91,
     "Thái Lê Minh Hiếu": 2.68
   },
   "deltas": {
     "Cường Bạch": 0.0,
-    "Hồ Đông Quan": 0.0,
+    "Hồ Đông Quan": -0.01,
     "Phúc Nguyên": 0.0,
     "Lâm Anh": 0.0,
     "Thái Lê Minh Hiếu": 0.0
   },
-  "rank": "1:Hồ Đông Quan(42.14) | 2:Cường Bạch(24.48) | 3:Phúc Nguyên(15.02) | 4:Lâm Anh(4.91) | 5:Thái Lê Minh Hiếu(2.68)",
-  "gap_bhc": 17.66
+  "rank": "1:Hồ Đông Quan(42.13) | 2:Cường Bạch(24.48) | 3:Phúc Nguyên(15.02) | 4:Lâm Anh(4.91) | 5:Thái Lê Minh Hiếu(2.68)",
+  "gap_bhc": 17.65
 }
